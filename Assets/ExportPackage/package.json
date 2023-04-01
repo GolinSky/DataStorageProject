@@ -1,0 +1,24 @@
+{
+  "name": "com.pancake.data-storage",
+  "version": "1.0.0",
+  "displayName": "Data Storage",
+  "description": "This package provides saving data using newton json",
+  "unity": "2021.3",
+  "unityRelease": "22f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.1.0"
+  },
+ "keywords": [
+    "data",
+    "storage",
+    "save"
+  ],
+  "author": {
+    "name": "Alex GolinSky",
+    "email": "golinsky97@gmail.com\n",
+    "url": "https://github.com/GolinSky"
+  }
+}
