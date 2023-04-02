@@ -1,6 +1,6 @@
 {
   "name": "com.pancake.data-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Data Storage",
   "description": "This package provides saving data using newton json",
   "unity": "2021.3",
